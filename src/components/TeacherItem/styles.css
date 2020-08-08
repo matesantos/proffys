@@ -27,7 +27,6 @@
     color: var(--color-text-title);
 }
 
-
 .teacher-item header span{
     font: 700 1.6rem;
     display: block;
@@ -81,7 +80,7 @@
         padding: 3.2rem;
     }
 
-    .teacher-item > p{
+    .teacher-item > p {
         padding: 0 3.2rem;
     }
 
@@ -91,8 +90,8 @@
     }
 
     .teacher-item footer button {
-        width: 24.5rem;
-        font-size: 1.6px;
+        width: 26.5rem;
+        font-size: 1.6rem;
         justify-content: center;
     }
 
